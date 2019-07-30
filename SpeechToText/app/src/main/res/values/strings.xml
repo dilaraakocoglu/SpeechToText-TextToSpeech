@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="l_tfen_yapmak_stedi_iniz_lemi_se_iniz">Lütfen Yapmak İstediğiniz İşlemi Seçiniz</string>
+    <string name="sesi_yaz_ya_d_n_t_rme">Sesi Yazıya Dönüştürme</string>
+    <string name="yaz_y_sese_d_n_t_rme">Yazıyı Sese Dönüştürme</string>
+</resources>
